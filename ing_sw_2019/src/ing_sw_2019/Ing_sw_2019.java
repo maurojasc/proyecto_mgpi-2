@@ -17,6 +17,7 @@ public class Ing_sw_2019 {
     public static void main(String[] args) {
         
        System.out.println("topicos avanzado de ingeniería de software");
+        System.out.println.("Revisión Mauricio Rojas C.");
     }
     
 }
